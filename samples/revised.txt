@@ -1,0 +1,35 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of March 15, 2025,
+by and between Acme Corporation ("Provider") and Gamma Technologies ("Client").
+
+1. SCOPE OF SERVICES
+The Provider shall deliver software consulting and development services as
+described in Exhibit A attached hereto. Services will be performed remotely
+or at the Provider's offices during normal business hours.
+
+2. TERM
+This Agreement shall commence on March 15, 2025 and continue for a
+period of twenty-four (24) months, unless terminated earlier in accordance
+with Section 6.
+
+3. COMPENSATION
+Client shall pay Provider a monthly fee of $15,000, due on the first
+business day of each month. Late payments shall incur interest at a
+rate of 1.0% per month.
+
+4. CONFIDENTIALITY
+Each party agrees to keep confidential all proprietary information
+received from the other party during the term of this Agreement.
+Confidential information shall remain protected for two (2) years
+following termination of this Agreement.
+
+5. INTELLECTUAL PROPERTY
+All work product created under this Agreement shall be owned by the Client
+upon full payment.
+
+6. TERMINATION
+Either party may terminate this Agreement with 60 days written notice.
+Upon termination, Client shall pay for all services rendered through
+the termination date. Provider shall return all Client materials within
+10 business days of termination.
